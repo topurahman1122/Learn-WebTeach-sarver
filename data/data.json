@@ -1,0 +1,44 @@
+[
+    {
+        "id": "63575de46703fdc82eafdb17",
+        "price": 99.99,
+        "picture": "https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg",
+        "name": "Python",
+        "about": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. "
+    },
+    {
+        "id": "63575de412fa6f9b6af02f2d",
+        "price": 125,
+        "picture": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Javascript",
+        "about": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS."
+    },
+    {
+        "id": "63575de43fd86c79ed6fa6be",
+        "price": 79,
+        "picture": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "React Js",
+        "about": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality"
+    },
+    {
+        "id": "63575de44ccaf47bb7b0cf82",
+        "price": 53,
+        "picture": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+        "name": "MongoDB",
+        "about": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions."
+    },
+    {
+        "id": "63575de47654bd7719ffda68",
+        "price": 94,
+        "picture": "https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1",
+        "name": "Laravel",
+        "about": "Laravel is a free and open-source PHP web framework,[3] created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar.The source code of Laravel is hosted on GitHub and licensed under the terms of MIT License"
+    },
+    {
+        "id": "63575de487b231ce1ccb7768",
+        "price": 55,
+        "picture": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
+        "name": "CSS",
+        "about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting."
+    }
+]
